@@ -1,0 +1,26 @@
+label {
+    margin-left: 682px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 6px;
+    text-align: center;
+    background: white url('https://yts.am/assets/images/website/icon-search.svg') no-repeat 9px 6px;
+}
+
+.Images {
+    width : 480px;
+    height : 300px;
+    float : left;
+    margin : 10px;
+}
+
+.NewImages {
+    width : 480px;
+    height : 300px;
+    float : left;
+    margin : 10px;
+}
